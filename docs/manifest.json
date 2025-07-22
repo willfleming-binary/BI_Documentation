@@ -1,0 +1,381 @@
+{
+  "source_base_path": "C:/Git/BI_Documentation_Published",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Datasets/CRM.md",
+      "output": {
+        ".html": {
+          "relative_path": "Datasets/CRM.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Datasets/Call Off.md",
+      "output": {
+        ".html": {
+          "relative_path": "Datasets/Call Off.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Datasets/Case Management.md",
+      "output": {
+        ".html": {
+          "relative_path": "Datasets/Case Management.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Datasets/Container Type Usage.md",
+      "output": {
+        ".html": {
+          "relative_path": "Datasets/Container Type Usage.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Datasets/Customer & Item.md",
+      "output": {
+        ".html": {
+          "relative_path": "Datasets/Customer & Item.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Datasets/Haulage.md",
+      "output": {
+        ".html": {
+          "relative_path": "Datasets/Haulage.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Datasets/Lab.md",
+      "output": {
+        ".html": {
+          "relative_path": "Datasets/Lab.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Datasets/Ledger.md",
+      "output": {
+        ".html": {
+          "relative_path": "Datasets/Ledger.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Datasets/Payables.md",
+      "output": {
+        ".html": {
+          "relative_path": "Datasets/Payables.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Datasets/Production.md",
+      "output": {
+        ".html": {
+          "relative_path": "Datasets/Production.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Datasets/Purchasing.md",
+      "output": {
+        ".html": {
+          "relative_path": "Datasets/Purchasing.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Datasets/Receivables.md",
+      "output": {
+        ".html": {
+          "relative_path": "Datasets/Receivables.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Datasets/Sales Invoices.md",
+      "output": {
+        ".html": {
+          "relative_path": "Datasets/Sales Invoices.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Datasets/Sales Orders.md",
+      "output": {
+        ".html": {
+          "relative_path": "Datasets/Sales Orders.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Datasets/Stock Movement & Contracts.md",
+      "output": {
+        ".html": {
+          "relative_path": "Datasets/Stock Movement & Contracts.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Datasets/Stock Value.md",
+      "output": {
+        ".html": {
+          "relative_path": "Datasets/Stock Value.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Datasets/introduction.md",
+      "output": {
+        ".html": {
+          "relative_path": "Datasets/introduction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "Datasets/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Datasets/toc.html"
+        },
+        ".json": {
+          "relative_path": "Datasets/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "FDY/PBIReportUse.md",
+      "output": {
+        ".html": {
+          "relative_path": "FDY/PBIReportUse.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "FDY/getting-started.md",
+      "output": {
+        ".html": {
+          "relative_path": "FDY/getting-started.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "FDY/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "FDY/toc.html"
+        },
+        ".json": {
+          "relative_path": "FDY/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Fabric User Groups/App Audiences.md",
+      "output": {
+        ".html": {
+          "relative_path": "Fabric User Groups/App Audiences.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Fabric User Groups/Datasets.md",
+      "output": {
+        ".html": {
+          "relative_path": "Fabric User Groups/Datasets.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Fabric User Groups/Intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "Fabric User Groups/Intro.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Fabric User Groups/Workspaces.md",
+      "output": {
+        ".html": {
+          "relative_path": "Fabric User Groups/Workspaces.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Fabric User Groups/images/App Audiences/list_of_audiences.png",
+      "output": {
+        "resource": {
+          "relative_path": "Fabric User Groups/images/App Audiences/list_of_audiences.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Fabric User Groups/images/App Audiences/selected_audience.png",
+      "output": {
+        "resource": {
+          "relative_path": "Fabric User Groups/images/App Audiences/selected_audience.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Fabric User Groups/images/Datasets/dataset.png",
+      "output": {
+        "resource": {
+          "relative_path": "Fabric User Groups/images/Datasets/dataset.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Fabric User Groups/images/Datasets/see_related.png",
+      "output": {
+        "resource": {
+          "relative_path": "Fabric User Groups/images/Datasets/see_related.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Fabric User Groups/images/Datasets/three_dots.png",
+      "output": {
+        "resource": {
+          "relative_path": "Fabric User Groups/images/Datasets/three_dots.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Fabric User Groups/images/Workspaces/get_to_workspaces.png",
+      "output": {
+        "resource": {
+          "relative_path": "Fabric User Groups/images/Workspaces/get_to_workspaces.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "Fabric User Groups/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Fabric User Groups/toc.html"
+        },
+        ".json": {
+          "relative_path": "Fabric User Groups/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/logo.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

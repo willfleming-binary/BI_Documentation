@@ -1,0 +1,122 @@
+{
+  "Datasets/CRM.html": {
+    "href": "Datasets/CRM.html",
+    "title": "Introduction | BI Documentation",
+    "summary": "Introduction"
+  },
+  "Datasets/Call Off.html": {
+    "href": "Datasets/Call Off.html",
+    "title": "Introduction | BI Documentation",
+    "summary": "Introduction"
+  },
+  "Datasets/Case Management.html": {
+    "href": "Datasets/Case Management.html",
+    "title": "Introduction | BI Documentation",
+    "summary": "Introduction"
+  },
+  "Datasets/Container Type Usage.html": {
+    "href": "Datasets/Container Type Usage.html",
+    "title": "Introduction | BI Documentation",
+    "summary": "Introduction"
+  },
+  "Datasets/Customer & Item.html": {
+    "href": "Datasets/Customer & Item.html",
+    "title": "Introduction | BI Documentation",
+    "summary": "Introduction"
+  },
+  "Datasets/Haulage.html": {
+    "href": "Datasets/Haulage.html",
+    "title": "Introduction | BI Documentation",
+    "summary": "Introduction"
+  },
+  "Datasets/Lab.html": {
+    "href": "Datasets/Lab.html",
+    "title": "Introduction | BI Documentation",
+    "summary": "Introduction"
+  },
+  "Datasets/Ledger.html": {
+    "href": "Datasets/Ledger.html",
+    "title": "Introduction | BI Documentation",
+    "summary": "Introduction"
+  },
+  "Datasets/Payables.html": {
+    "href": "Datasets/Payables.html",
+    "title": "Introduction | BI Documentation",
+    "summary": "Introduction"
+  },
+  "Datasets/Production.html": {
+    "href": "Datasets/Production.html",
+    "title": "Introduction | BI Documentation",
+    "summary": "Introduction"
+  },
+  "Datasets/Purchasing.html": {
+    "href": "Datasets/Purchasing.html",
+    "title": "Introduction | BI Documentation",
+    "summary": "Introduction"
+  },
+  "Datasets/Receivables.html": {
+    "href": "Datasets/Receivables.html",
+    "title": "Introduction | BI Documentation",
+    "summary": "Introduction"
+  },
+  "Datasets/Sales Invoices.html": {
+    "href": "Datasets/Sales Invoices.html",
+    "title": "Introduction | BI Documentation",
+    "summary": "Introduction"
+  },
+  "Datasets/Sales Orders.html": {
+    "href": "Datasets/Sales Orders.html",
+    "title": "Introduction | BI Documentation",
+    "summary": "Introduction"
+  },
+  "Datasets/Stock Movement & Contracts.html": {
+    "href": "Datasets/Stock Movement & Contracts.html",
+    "title": "Introduction | BI Documentation",
+    "summary": "Introduction"
+  },
+  "Datasets/Stock Value.html": {
+    "href": "Datasets/Stock Value.html",
+    "title": "Introduction | BI Documentation",
+    "summary": "Introduction"
+  },
+  "Datasets/introduction.html": {
+    "href": "Datasets/introduction.html",
+    "title": "Introduction | BI Documentation",
+    "summary": "Introduction"
+  },
+  "FDY/PBIReportUse.html": {
+    "href": "FDY/PBIReportUse.html",
+    "title": "Power BI Report User Guide | BI Documentation",
+    "summary": "Power BI Report User Guide This guide explains how to use and interact with Power BI reports effectively. It covers slicers, filters, navigation, data export, and general tips for exploring the data. Navigating a Report Use the tabs on the left side to move between report pages. Click on visual elements (e.g. bars, lines, tables) to highlight related data in other visuals (cross-filtering). Hover over charts or points to see tooltips with detailed data. Using Slicers Slicers help you filter the report quickly and visually. How to Use: Click on a slicer to select a value (e.g. Customer, Product, Date). Hold Ctrl (Windows) or Cmd (Mac) to multi-select. Use the eraser icon in the top-right of the slicer to clear selections. Common Types: Dropdowns: Click the arrow to expand and select options. Date ranges: Use sliders or calendar pickers to filter by date. Filters and Interactions Visual Interactions: Clicking on one chart item (e.g., a bar or pie slice) filters the other visuals automatically. Use this to drill into specific segments or categories. Filters Pane: Expand the Filters pane (usually on the right) to see all filters applied to the report. You can adjust or remove filters here (if allowed by the report creator). Working with Dates Date slicers may let you filter by day, month, quarter, or year. Use the drop-down above the date slicer to change the mode (e.g., list, between, relative). Use relative date filtering (e.g. \"last 30 days\", \"this month\") to see dynamic ranges. Tips for Using Reports Effectively Check which filters are active before drawing conclusions. Clear slicers if a report looks empty or filtered incorrectly. Use the reset button (if present) to return the report to its default state. Need Help? If something doesn’t look right: Try refreshing the browser/report. Check with your data/report owner for clarification."
+  },
+  "FDY/getting-started.html": {
+    "href": "FDY/getting-started.html",
+    "title": "Getting Started | BI Documentation",
+    "summary": "Getting Started"
+  },
+  "Fabric User Groups/App Audiences.html": {
+    "href": "Fabric User Groups/App Audiences.html",
+    "title": "Understanding App Audiences and Accessing the 'Feed Dynamics Reports' App | BI Documentation",
+    "summary": "Understanding App Audiences and Accessing the 'Feed Dynamics Reports' App How to Access the Feed Dynamics Reports App Open Power BI at https://powerbi.com/ Navigate to the Apps section (usually found in the left-hand menu) If the app isn't installed already, go to 'Get Apps' and search for 'Feed Dynamics Reports' Launch the app. What is an Audience in a Fabric App? The Feed Dynamics Reports app is split into audiences. Each audience sees a specific set of reports and dashboards relating to different functional areas. This means: Different people can see different content in the same app. You only see the reports that are relevant to the group (audience) you belong to. Your access is controlled by which Feed Dynamics Reports - {Audience Name} group you're in. Example Audiences: Feed Dynamics Reports - Production → Shows only Production-related reports. Feed Dynamics Reports - Receivables → Shows only Receivables-related reports. The list of audiences is located at the top of the app In the example below with the Receivables audience selected, as indicated by the white line underneath it, we see the audience has access to the Receivables & Cash Movement reports within the Feed Dynamics App"
+  },
+  "Fabric User Groups/Datasets.html": {
+    "href": "Fabric User Groups/Datasets.html",
+    "title": "How to Find What Dataset a Report Relies On | BI Documentation",
+    "summary": "How to Find What Dataset a Report Relies On Open the report in Power BI Click the three dots (⋯) in the top-left corner of the report (as highlighted in a green box below) Select 'See related content' from the dropdown menu. Look under the section labelled 'Semantic models' (highlighted in green as below). This is the dataset that powers the report. If a user wants access to data on this report, they will need to be a member of the user group 'Fabric Dataset Viewer -- Stock Movement & Contracts'"
+  },
+  "Fabric User Groups/Intro.html": {
+    "href": "Fabric User Groups/Intro.html",
+    "title": "Fabric User Groups Overview | BI Documentation",
+    "summary": "Fabric User Groups Overview This guide explains how user groups control access to reports, datasets, and workspaces in Fabric / Power BI. Key Concept A user must have access to both the report and the underlying dataset to view any data in that report. Managing User Groups You can manage and configure user groups here: https://myaccount.microsoft.com/groups/groups-i-own User Roles in Groups Owner: Manages the group - can add/remove members, change settings, and control access. Member: Has access to resources controlled by the group (datasets, reports) but cannot manage the group. Note: Users will only have access to data from companies which they are a System User in D365"
+  },
+  "Fabric User Groups/Workspaces.html": {
+    "href": "Fabric User Groups/Workspaces.html",
+    "title": "Managing Workspace Access in Fabric | BI Documentation",
+    "summary": "Managing Workspace Access in Fabric What Is a Workspace? Think of a workspace like a shared folder in Fabric that contains custom Power BI reports. These reports are not part of the standard Feed Dynamics Reports app. They are generally used for custom reporting needs. Each workspace is tied to a functional area or business unit, like Sales, Haulage, or Production. Example Audiences: Fabric Workspace Viewer - Production → Gives access to all reports in the Production workspace Fabric Workspace Viewer - Receivables → Gives access to all reports in the Receivables workspace"
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "Binary BI User Guide | BI Documentation",
+    "summary": "Binary BI User Guide Welcome to Binary’s Business Intelligence (BI) User Guide. This guide is designed to help you navigate, explore, and interact with the Power BI reports & datasets made available to you. What’s Inside How to use slicers and filters Navigating between report pages Interacting with visuals Exporting data Common troubleshooting tips Need Help or Have a Request? If you encounter issues with a report or would like to request a new report: Please raise a ticket in JIRA. Include the following: Report name or description Screenshot (if applicable) Description of the issue or request xxxxxxxxxxxxxxxx Stay Informed We continuously update our BI reports and this guide based on your feedback. Bookmark this page for future reference."
+  }
+}
